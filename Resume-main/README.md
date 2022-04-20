@@ -1,3 +1,3 @@
 # Resume
 
-Resume of BulletTech: https://bullettech2021.github.io/Resume/home/
+Resume of ZongWang: https://github.com/wangzong95/Resume/home/
